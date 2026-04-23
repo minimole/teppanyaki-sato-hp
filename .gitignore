@@ -1,2 +1,5 @@
 .env
 *.lnk
+node_modules/
+package-lock.json
+images/hero.jpg
